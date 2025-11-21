@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "type": "module",
+  "dependencies": {
+    "express": "^4",
+    "cors": "^2"
+  }
+}
